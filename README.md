@@ -1,2 +1,2 @@
 # Githud-Demo
-This is Demo for the Githud Class
+This is Demo for the Githud Class.
